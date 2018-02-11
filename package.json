@@ -1,7 +1,7 @@
 {
   "name": "chinese_convert",
   "version": "1.0.8",
-  "description": "簡繁轉換 (簡體轉繁體，體轉簡體)",
+  "description": "簡繁轉換 (簡體轉繁體，簡體轉簡體)",
   "main": "chinese_convert.js",
   "dependencies": {},
   "devDependencies": {
